@@ -456,7 +456,13 @@ After completing this exercise, learners will be able to:
 
 ## output:
 
+## Video:
+
 https://drive.google.com/file/d/1aTUWKB_gdb-dbAHI6qVg2CLpynV6mAL8/view?usp=drive_link
+
+## Image:
+
+https://drive.google.com/file/d/166HIfpdkxU6LWX0ih6msb2YrtgXorz6S/view?usp=drive_link
 
 ## Conclusion:
 
