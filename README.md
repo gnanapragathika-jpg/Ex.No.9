@@ -458,7 +458,7 @@ After completing this exercise, learners will be able to:
 
 https://drive.google.com/file/d/1aTUWKB_gdb-dbAHI6qVg2CLpynV6mAL8/view?usp=drive_link
 
-## Conclusion
+## Conclusion:
 
 Prompt engineering plays an important role in controlling AI-generated videos. A simple prompt may produce a general result, while a structured prompt containing **subject, environment, action, camera movement, lighting, style, timing, and constraints** provides greater control. Techniques such as **few-shot prompting, persona prompting, temporal prompting, negative prompting, iterative prompting, and prompt chaining** can improve the quality and consistency of generated videos. Through engineering case studies such as a **Drone Survey Project**, learners can understand how prompt engineering can be applied to practical technical communication and visualization tasks.
 
